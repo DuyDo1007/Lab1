@@ -17,9 +17,9 @@ public class BubbleSort {
 		System.out.println("Tong cua chuoi la "+ sum );
 		BubbleSortArr(number,n);
 		System.out.print("Chuoi da sap xep la: ");
-        for (int i = 0; i < n ;i ++) {
-            System.out.print(number[i] + " ");
-        };
+        	for (int i = 0; i < n ;i ++) {
+            		System.out.print(number[i] + " ");
+        	};
 		
 	};
 	public static void BubbleSortArr(int[] number,int n) {
