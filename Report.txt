@@ -1,4 +1,0 @@
-Báo cáo thực hành lab1
-Câu1:
--Khi user chọn "Cancer" thì dialog hiện user đã lựa chọn No.
--
